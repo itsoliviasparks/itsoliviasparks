@@ -1,5 +1,5 @@
-<h1 align="center">Hiya! My name is Olivia Sparks 🤙</h1>
-<h3 align="center">✨ I'm a shiny new frontend developer from 🇨🇦, currently located in 🇺🇸.</h3>
+<h1 align="center">I'm Olivia Sparks</h1>
+<h3 align="center">I'm a ✨shiny new✨ frontend developer from 🇨🇦, currently located in 🇺🇸.</h3>
 
 - 📚 I’m currently studying **Frontend Web Development @ Juno College**
 
@@ -9,7 +9,7 @@
 
 - ✉️ How to reach me **itsoliviasparks@gmail.com**
 
-- ⚡ Fun fact [I'm really good at getting the USB orientation right on the first try!](I'm really good at getting the USB orientation right on the first try!)
+- 🤙 Fun fact **I'm really good at getting the USB orientation right on the first try!**
 
 - 👤 Pronouns **she/her**
 
