@@ -1,22 +1,21 @@
 <h1 align="center">Olivia Sparks</h1>
 <h3 align="center">I'm a ✨shiny new✨ frontend developer with an eye for design.</h3>
  
- - 🌎 I'm from **Canada**, and I'm currently located in **Ohio**.
+ - 🌎 From **Canada**, currently located in **Ohio**.
 
-- 📚 I’m currently studying **Frontend Web Development @ Juno College**
+- 📚 Currently studying **Frontend Web Development @ Juno College**
 
-- 🤔 I'm always happy to talk about **The parallels between technical garment design and frontend web dev.**
+- 🤔 Always happy to talk about **The parallels between technical garment design and frontend web dev.**
 
-- ✉️ Call me, beep me, if ya wanna reach me at: **itsoliviasparks@gmail.com**
+- ✉️ Call me, beep me, if ya wanna reach me @: **itsoliviasparks@gmail.com**
 
-- 🤙 Fun fact: **I'm really good at getting the USB orientation right on the first try!**
+- 🤙 Fun Fact: **I'm really good at getting the USB orientation right on the first try!**
 
 - 👤 Pronouns: **she/her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itsoliviasparks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsoliviasparks" height="30" width="40" /></a>
-<a href="https://instagram.com/itsoliviasparks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsoliviasparks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
