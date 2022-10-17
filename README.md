@@ -1,7 +1,7 @@
 <h1 align="center">Olivia Sparks</h1>
 <h3 align="center">I'm a ✨shiny new✨ frontend developer with an eye for design.</h3>
  
- - 🌎 I'm from **Canada**, & I'm currently located in **Ohio**.
+ - 🌎 I'm from **Canada**, and I'm currently located in **Ohio**.
 
 - 📚 I’m currently studying **Frontend Web Development @ Juno College**
 
