@@ -3,8 +3,6 @@
 
 - 📚 I’m currently studying **Frontend Web Development @ Juno College**
 
-- 📄 Check me out on LinkedIn [https://www.linkedin.com/in/itsoliviasparks/](https://www.linkedin.com/in/itsoliviasparks/)
-
 - 🤔 I'm always happy to talk about **The parallels between technical garment design and frontend web dev.**
 
 - ✉️ Call me, beep me, if ya wanna reach me at **itsoliviasparks@gmail.com**
