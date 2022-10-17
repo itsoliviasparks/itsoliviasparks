@@ -1,15 +1,17 @@
 <h1 align="center">Olivia Sparks</h1>
-<h3 align="center">I'm a ✨shiny new✨ frontend developer with an eye for design.  From 🇨🇦, currently located in 🇺🇸.</h3>
+<h3 align="center">I'm a ✨shiny new✨ frontend developer with an eye for design.</h3>
+ 
+ - 🌎 I'm from **Canada**, & I'm currently located in **Ohio**.
 
 - 📚 I’m currently studying **Frontend Web Development @ Juno College**
 
 - 🤔 I'm always happy to talk about **The parallels between technical garment design and frontend web dev.**
 
-- ✉️ Call me, beep me, if ya wanna reach me at **itsoliviasparks@gmail.com**
+- ✉️ Call me, beep me, if ya wanna reach me at: **itsoliviasparks@gmail.com**
 
-- 🤙 Fun fact **I'm really good at getting the USB orientation right on the first try!**
+- 🤙 Fun fact: **I'm really good at getting the USB orientation right on the first try!**
 
-- 👤 Pronouns **she/her**
+- 👤 Pronouns: **she/her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
