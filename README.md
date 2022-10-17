@@ -1,5 +1,5 @@
 <h1 align="center">Olivia Sparks</h1>
-<h3 align="center">I'm a ✨shiny new✨ frontend developer from 🇨🇦, currently located in 🇺🇸.</h3>
+<h3 align="center">I'm a ✨shiny new✨ frontend developer with an eye for design.  From 🇨🇦, currently located in 🇺🇸.</h3>
 
 - 📚 I’m currently studying **Frontend Web Development @ Juno College**
 
