@@ -1,11 +1,11 @@
 <h1 align="center">Olivia Sparks</h1>
-<h3 align="center">I’m a methodical & goal oriented Front-End Web Developer with an eye for design.</h3>
+<h3 align="center">I’m a methodical & goal oriented Front-end Web Developer with an eye for design.</h3>
  
- - 🌎 From **Canada**, presently located in **Ohio**.
+ - 🌎 From **Canada**, living in **Columbus, Ohio**.
 
 - 📚 Currently studying **Front-End Web Development @ <a href="https://junocollege.com">Juno College</a>**
 
-- 🤔 Always happy to talk about **The parallels between the fashion industry & tech.**
+- 🤔 Always happy to talk about **throwing pottery, riding mountain bikes, climbing rocks, petting cats, & practising yoga.**
 
 - ✉️ Call me, beep me, if ya wanna reach me @: **itsoliviasparks@gmail.com**
 
