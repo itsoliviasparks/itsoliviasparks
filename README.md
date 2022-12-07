@@ -9,7 +9,7 @@
 
 - ✉️ Call me, beep me, if ya wanna reach me @: **itsoliviasparks@gmail.com**
 
-- 💻 Or, holla @me here <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
+- 💻 Or, holla @me here: <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
 
 - 🤙 Fun Fact: **I'm really good at getting the USB orientation right on the first try!**
 
