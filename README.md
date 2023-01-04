@@ -3,7 +3,7 @@
  
  - 🌎 From **Canada**, living in **Columbus, Ohio**.
 
-- 📚 Currently studying **Front-End Web Development @ <a href="https://junocollege.com">Juno College</a>**
+- 📚 Currently studying **Front-end Web Development @ <a href="https://junocollege.com">Juno College</a>**
 
 - 🤔 Always happy to talk about **throwing pottery, riding mountain bikes, climbing rocks, petting cats, & practising yoga.**
 
