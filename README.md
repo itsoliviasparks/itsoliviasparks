@@ -1,15 +1,15 @@
 <h1 align="center">olivia sparks</h1>
 <h3 align="center">I’m a methodical & goal-oriented Front-end Web Developer with an eye for design.</h3>
 
-✦ You can see more of my work @ <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
+- You can see more of my work @ <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
 
-✦ Currently studying: **Front-end Web Development @ <a href="https://junocollege.com">Juno College</a>**
+- Currently studying: **Front-end Web Development @ <a href="https://junocollege.com">Juno College</a>**
 
-✦ Fun Fact: **I always get the USB-A orientation right on the first try!**
+- Fun Fact: **I always get the USB-A orientation right on the first try!**
 
-✦ AFK, you’ll find me: **throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames**
+- AFK, you’ll find me: **throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames**
 
-✦ Pronouns: **she/her**
+- Pronouns: **she/her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
