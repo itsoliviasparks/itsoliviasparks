@@ -1,4 +1,4 @@
-<h1 align="center">olivia sparks</h1>
+<h1 align="center">it's olivia sparks</h1>
 <h3 align="center">I’m a methodical & goal-oriented Front-end Web Developer with an eye for design.</h3>
 
 - You can see more of my work @ <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
