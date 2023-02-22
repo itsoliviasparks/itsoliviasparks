@@ -3,7 +3,7 @@
 
 - You can see more of my work @ <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
 
-- Currently studying: **Front-end Web Development @ <a href="https://junocollege.com">Juno College</a>**
+- Recent **Front-end Web Development Grad** @ <a href="https://junocollege.com">Juno College</a>
 
 - Fun Fact: **I always get the USB-A orientation right on the first try!**
 
