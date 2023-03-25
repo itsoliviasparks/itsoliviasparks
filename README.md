@@ -5,7 +5,7 @@
 
 - Recent Front-end Web Development Grad @ <a href="https://junocollege.com">Juno College</a>
 
-- Currently coding a project @ <a href="https://junocollege.com](https://the-collab-lab.codes">The Collab Lab</a>
+- Currently coding a project @ <a href="https://the-collab-lab.codes">The Collab Lab</a>
 
 - Fun Fact: I always get the USB-A orientation right on the first try
 
