@@ -3,13 +3,15 @@
 
 - You can see more of my work @ <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
 
-- Recent **Front-end Web Development Grad** @ <a href="https://junocollege.com">Juno College</a>
+- Recent Front-end Web Development Grad @ <a href="https://junocollege.com">Juno College</a>
 
-- Fun Fact: **I always get the USB-A orientation right on the first try!**
+- Currently coding a project @ <a href="https://junocollege.com](https://the-collab-lab.codes">The Collab Lab</a>
 
-- AFK, you’ll find me: **throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames**
+- Fun Fact: I always get the USB-A orientation right on the first try
 
-- Pronouns: **she/her**
+- AFK, you’ll find me: throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
+
+- Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
