@@ -1,21 +1,21 @@
 <h1 align="center">it's olivia sparks</h1>
-<h3 align="center">I’m a methodical & goal-oriented Front-end Web Developer with an eye for design.</h3>
+<h3 align="center">I'm a curious & methodical software developer, designer, & overall "keener", dedicated to solving user-focused problems.</h3>
 
-- You can see more of my work @ <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
+- I am a graduate of <a href="https://junocollege.com">Juno College's</a> Front-end Web Development bootcamp
 
-- Recent Front-end Web Development Grad @ <a href="https://junocollege.com">Juno College</a>
+- I also have a Bachelors of Design in Fashion & a Minor in Philosophy
 
-- Currently coding a project @ <a href="https://the-collab-lab.codes">The Collab Lab</a>
-
-- Fun Fact: I always get the USB-A orientation right on the first try
+- I'm currently working with a bunch of rad early-career developers on a <a href="https://the-collab-lab.codes">The Collab Lab</a> project. You can check it out <a href="https://github.com/the-collab-lab/tcl-61-smart-shopping-list">over here</a>.
 
 - AFK, you’ll find me: throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
 
 - Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itsoliviasparks"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsoliviasparks" height="30" width="40"/></a>
+
+- Portfolio: <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
+
+- LinkedIn: <a href="https://www.linkedin.com/in/itsoliviasparks/">**itsoliviasparks**</a>
  
 </p>
 
