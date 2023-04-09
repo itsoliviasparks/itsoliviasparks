@@ -5,7 +5,7 @@
 
 - I also have a Bachelors of Design in Fashion & a Minor in Philosophy
 
-- I'm currently working with a bunch of rad early-career developers on a <a href="https://the-collab-lab.codes">The Collab Lab</a> project. You can check it out here: <a href="https://tcl-61-smart-shopping-list.web.app">site</a> | <a href="https://github.com/the-collab-lab/tcl-61-smart-shopping-list">repo</a>.
+- I'm currently working with a bunch of other rad early-career developers on a <a href="https://the-collab-lab.codes">Collab Lab</a> project. You can check it out here: <a href="https://tcl-61-smart-shopping-list.web.app">site</a> | <a href="https://github.com/the-collab-lab/tcl-61-smart-shopping-list">repo</a>
 
 - AFK, you’ll find me: throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
 
