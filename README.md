@@ -1,5 +1,5 @@
 <h1 align="center">it's olivia sparks</h1>
-<h3 align="center">I'm a curious & methodical software developer, designer, & overall "keener", dedicated to solving user-focused problems.</h3>
+<h3 align="center">I'm a curious & methodical software developer, designer, & overall "keener", dedicated to lifelong learning & problem solving.</h3>
 
 - I am a graduate of <a href="https://junocollege.com">Juno College's</a> Front-end Web Development bootcamp
 
