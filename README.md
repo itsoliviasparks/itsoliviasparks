@@ -1,7 +1,7 @@
 <h1 align="center">it's olivia sparks</h1>
 <h3 align="center">I’m a goal-oriented software developer, designer, & overall "keener" dedicated to lifelong learning & problem solving.</h3>
 
-- I am a graduate of <a href="https://junocollege.com">Juno College's</a> Front-end Web Development bootcamp
+- I am a graduate of <a href="https://junocollege.com">Juno College's</a> Web Development Bootcamp
 
 - I also have a Bachelors of Design in Fashion & a Minor in Philosophy
 
