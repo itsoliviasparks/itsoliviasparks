@@ -1,11 +1,13 @@
 <h1 align="center">it's olivia sparks</h1>
-<h3 align="center">I’m a goal-oriented software developer, designer, & overall "keener" dedicated to lifelong learning & problem solving.</h3>
+<h3 align="center">Curious & methodical software developer, designer, & overall "keener", dedicated to lifelong learning & problem solving.</h3>
+
+- I'm currently working on some pretty rad animations @ <a href="https://www.publicis.ca">Publicis Canada</a>
+
+- I'm also collaborating with a bunch of other cool early-career developers on a <a href="https://the-collab-lab.codes">Collab Lab</a> project. You can check it out here: <a href="https://tcl-61-smart-shopping-list.web.app">site</a> | <a href="https://github.com/the-collab-lab/tcl-61-smart-shopping-list">repo</a>
 
 - I am a graduate of <a href="https://junocollege.com">Juno College's</a> Web Development Bootcamp
 
 - I also have a Bachelors of Design in Fashion & a Minor in Philosophy
-
-- I'm currently working with a bunch of other rad early-career developers on a <a href="https://the-collab-lab.codes">Collab Lab</a> project. You can check it out here: <a href="https://tcl-61-smart-shopping-list.web.app">site</a> | <a href="https://github.com/the-collab-lab/tcl-61-smart-shopping-list">repo</a>
 
 - AFK, you’ll find me: throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
 
