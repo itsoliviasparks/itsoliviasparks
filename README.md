@@ -5,22 +5,22 @@
 - Pronouns: she/her
 
 ### What I'm up to:
-- I'm currently working on some pretty rad animations @ <a href="https://www.publicis.ca">Publicis Canada</a>
+- I'm currently working on some pretty rad animations @ [Publicis Canada](https://www.publicis.ca)
 
-- I'm also collaborating with a bunch of other cool early-career developers on a <a href="https://the-collab-lab.codes">Collab Lab</a> project. You can check it out here: <a href="https://tcl-61-smart-shopping-list.web.app">site</a> | <a href="https://github.com/the-collab-lab/tcl-61-smart-shopping-list">repo</a>
+- I'm also collaborating with a bunch of other cool early-career developers on a [Collab Lab](https://the-collab-lab.codes) project. You can check it out here: [live site](https://tcl-61-smart-shopping-list.web.app) | [repo](https://github.com/the-collab-lab/tcl-61-smart-shopping-list)
 
 ### Where I've studied:
-- I am a graduate of <a href="https://junocollege.com">Juno College's</a> Web Development Bootcamp
+- I am a graduate of [Juno College's](https://junocollege.com) Web Development Bootcamp
 
-- I also have a Bachelors of Design in Fashion & a Minor in Philosophy
+- I also have a Bachelors of Design in Fashion & a Minor in Philosophy from [TMU](https://www.torontomu.ca/fashion/)
 
 ### AFK, you’ll find me:
 - Throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
 
 ### Connect with me:
-- Portfolio: <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
+- Portfolio: [itsoliviasparks.com](https://itsoliviasparks.com)
 
-- LinkedIn: <a href="https://www.linkedin.com/in/itsoliviasparks/">**itsoliviasparks**</a>
+- LinkedIn: [itsoliviasparks](https://www.linkedin.com/in/itsoliviasparks/)
 
 ### Languages and Tools:
 <p align="center">
