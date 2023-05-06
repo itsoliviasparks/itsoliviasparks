@@ -1,7 +1,8 @@
 <img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-citrus-stripe-name.jpg" alt="it's olivia sparks">
 
-<h2 align="center">Curious & methodical software developer, designer, & overall "keener", dedicated to lifelong learning & problem solving.</h2>
-<p align="center">Pronouns: she/her</p>
+### A little about me:
+- I'm a curious & methodical software developer, designer, & overall "keener", dedicated to lifelong learning & problem solving
+- Pronouns: she/her
 
 ### What I'm up to:
 - I'm currently working on some pretty rad animations @ <a href="https://www.publicis.ca">Publicis Canada</a>
@@ -14,7 +15,7 @@
 - I also have a Bachelors of Design in Fashion & a Minor in Philosophy
 
 ### AFK, you’ll find me:
-- throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
+- Throwing pottery, riding mountain bikes, climbing rocks, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
 
 ### Connect with me:
 - Portfolio: <a href="https://itsoliviasparks.com">**itsoliviasparks.com**</a>
@@ -34,3 +35,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" height="45" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" height="45" width="45"/>
 </p>
+
+<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-citrus-stripe.png">
