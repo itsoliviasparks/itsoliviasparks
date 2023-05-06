@@ -2,6 +2,7 @@
 
 ### A little about me:
 - I'm a curious & methodical software developer, designer, & overall "keener", dedicated to lifelong learning & problem solving
+- Before I began my coding career, I spent half a decade working in fashion industry as a [Technical Apparel Developer](https://itsoliviasparks.com/tech-design-work)
 - Pronouns: she/her
 
 ### What I'm up to:
