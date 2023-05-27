@@ -8,7 +8,7 @@
 ### What I'm up to:
 - I'm currently coding some pretty rad animations @ [Publicis Canada](https://www.publicis.ca) with the [GSAP JavaScript Library](https://greensock.com)
 
-- I'm also collaborating with a bunch of other early-career developers on a [Collab Lab](https://the-collab-lab.codes) project. We're making a "smart" shopping list app that can learn the user's buying habits and help them remember what they are likely to need to buy on their next trip to the store. You can check it out here: [live site](https://tcl-61-smart-shopping-list.web.app) | [repo](https://github.com/the-collab-lab/tcl-61-smart-shopping-list)
+- I also just finished collaborating with a bunch of other early-career developers on a [Collab Lab](https://the-collab-lab.codes) project. We made a "smart" shopping list app, called "PREDICT-A-BUY", that learns the user's buying habits & helps them remember what they are likely to need to buy on their next trip to the store. You can check it out here: [live site](https://tcl-61-smart-shopping-list.web.app) | [repo](https://github.com/the-collab-lab/tcl-61-smart-shopping-list)
 
 ### Where I've studied:
 - I'm a graduate of [Juno College's](https://junocollege.com) Web Development Bootcamp
@@ -35,6 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" title="HTML" height="45" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" height="45" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" height="45" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" title="Illustrator" height="45" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="45" height="45"/> 
 </p>
