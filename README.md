@@ -8,7 +8,7 @@
 ### What I'm up to:
 - I'm currently coding some pretty rad banner ad animations @ [Publicis Canada](https://www.publicis.ca) with the [GSAP JavaScript Library](https://greensock.com)
 
-- I also just finished collaborating with a bunch of other early-career developers on a [Collab Lab](https://the-collab-lab.codes) project. We made a "smart" shopping list app, called "PREDICT-A-BUY", that learns the user's buying habits & helps them remember what they are likely to need to buy on their next trip to the store. You can check it out here: [live site](https://tcl-61-smart-shopping-list.web.app) | [repo](https://github.com/the-collab-lab/tcl-61-smart-shopping-list)
+- I also just finished collaborating with a bunch of other early-career developers on a [Collab Lab](https://the-collab-lab.codes) project. We made a "smart" shopping list app, called "PREDICT-A-BUY", that learns the user's buying habits & helps them remember what they are likely to need to buy on their next trip to the store. You can check it out here: [live site](https://tcl-61-smart-shopping-list.web.app) | [repo](https://github.com/itsoliviasparks/predict-a-buy)
 
 ### Where I've studied:
 - I'm a graduate of [Juno College's](https://junocollege.com) Web Development Bootcamp
