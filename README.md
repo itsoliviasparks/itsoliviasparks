@@ -1,7 +1,7 @@
 <img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-citrus-stripe-name.jpg" alt="it's olivia sparks">
 
 ### A little about me:
-- I'm a curious & methodical software developer, designer, & overall "keener", dedicated to lifelong learning & problem solving
+- I'm a curious & methodical developer, designer, & overall "keener", dedicated to lifelong learning & problem solving
 - Before I began my coding career, I spent half a decade working in the fashion industry as a [Technical Apparel Developer](https://itsoliviasparks.com/tech-design-work)
 - **Pronouns**: she/her
 
