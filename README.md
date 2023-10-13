@@ -35,9 +35,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" title="HTML" height="45" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" height="45" width="45"/>
+<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/adpiler-icon.png" alt="Adpiler" title="Adpiler" height="45" width="45"/> 
+<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/google-studio-icon.png" alt="Google Studio" title="Google Studio" height="45" width="45"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" height="45" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" title="Illustrator" height="45" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="45" height="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" title="Photoshop" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" title="Blender" height="45" width="45"/>
+<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/tableau-icon.svg" alt="Tableau" title="Tableau" height="45" width="45"/> 
 </p>
 
 <img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-citrus-stripe.png">
