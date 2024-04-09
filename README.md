@@ -44,8 +44,8 @@
 <img src='https://www.vectorlogo.zone/logos/figma/figma-icon.svg' alt='Figma' title='Figma' height='45' width='45' />
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg' alt='Blender' title='Blender' height='45' width='45'/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg' title='Jira' height='45' width='45'/>
-<img src='https://github.com/itsoliviasparks/itsoliviasparks/blob/main/icons/pair-programming-icon.jpg' alt='Pair Programming' title='Pair Programming' height='45' width='45'/>
-<img src='https://github.com/itsoliviasparks/itsoliviasparks/blob/main/icons/project-management.jpg' alt='Project Management' title='Project Management' height='45' width='45'/> 
+<img src='https://github.com/itsoliviasparks/itsoliviasparks/blob/main/icons/pair-programming-icon.png' alt='Pair Programming' title='Pair Programming' height='45' width='45'/>
+<img src='https://github.com/itsoliviasparks/itsoliviasparks/blob/main/icons/project-management-icon.png' alt='Project Management' title='Project Management' height='45' width='45'/> 
 </p>
 
 <img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-citrus-stripe.png">
