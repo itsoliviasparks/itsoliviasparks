@@ -2,7 +2,7 @@
 
 ### A little about me:
 - I’m a curious & methodical developer, designer, and overall "keener" with 6+ years experience in collaborative product development
-- I specialize in DHTML animation utilizing [GSAP](https://greensock.com) & Adobe Creative Suite;  I craft succinct & maintainable code with a focus on performance
+- I specialize in DHTML animation utilizing [GSAP](https://greensock.com) & Adobe Creative Suite; I craft succinct & maintainable code with a focus on performance
 - I’m a proven leader who implements best practices & standard operating procedures while fostering clear communication, strategic thinking, and a culture of continuous improvement
 - I identify & offer forward-thinking solutions to problems while operating effectively through ambiguity, challenges, and transitions
 - Fun fact: Before I began my coding career, I spent half a decade working in the fashion industry as a [Technical Apparel Developer](https://itsoliviasparks.com/tech-design-work)
