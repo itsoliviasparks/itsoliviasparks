@@ -1,12 +1,15 @@
 <img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-citrus-stripe-name.jpg" alt="it's olivia sparks">
 
 ### A little about me:
-- I'm a curious & methodical developer, designer, manager, & overall 'keener', dedicated to lifelong learning & problem solving
+- I’m a curious & methodical developer, designer, and overall "keener" with 6+ years experience in collaborative product development
+- I specialize in DHTML animation utilizing [GSAP](https://greensock.com) & Adobe Creative Suite;  I craft succinct & maintainable code with a focus on performance
+- I’m a proven leader who implements best practices & standard operating procedures while fostering clear communication, strategic thinking, and a culture of continuous improvement
+- I identify & offer forward-thinking solutions to problems while operating effectively through ambiguity, challenges, and transitions
 - Fun fact: Before I began my coding career, I spent half a decade working in the fashion industry as a [Technical Apparel Developer](https://itsoliviasparks.com/tech-design-work)
 - **Pronouns**: she/her
 
 ### What I'm up to:
-- I'm currently coding some pretty rad banner ad animations @ [Publicis Canada](https://www.publicis.ca) with the [GSAP JavaScript Library](https://greensock.com)
+- I'm currently coding some pretty rad banner ad animations @ [Publicis Canada](https://www.publicis.ca)
 
 - I also volunteer with [The Collab Lab](https://the-collab-lab.codes), helping early-career developers, particularly those from underrepresented groups in tech, gain practical experience in web development by working remotely on real world projects
 
