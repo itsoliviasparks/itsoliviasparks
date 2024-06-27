@@ -1,4 +1,4 @@
-<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-header.png" alt="it's olivia sparks">
+<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-mint-footer.png">
 
 ### A little about me:
 - I’m a curious & methodical developer, designer, and overall "keener" with 6+ years experience in collaborative product development
@@ -51,4 +51,4 @@
 <img src='https://github.com/itsoliviasparks/itsoliviasparks/blob/main/icons/project-management-icon.png' alt='Project Management' title='Project Management' height='45' width='45'/> 
 </p>
 
-<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-footer.jpeg">
+<img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-mint-line.png">
