@@ -1,8 +1,8 @@
 <img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-mint-footer.png">
 
 ### A little about me:
-- I’m a curious & methodical developer, designer, and overall "keener" with 6+ years experience in collaborative product development
-- I specialize in DHTML animation utilizing [GSAP](https://greensock.com) & Adobe Creative Suite; I craft succinct & maintainable code with a focus on performance
+- I’m a curious & methodical developer, designer, and overall "keener" with 6+ years experience in collaborative project development
+- I specialize in DHTML animation utilizing [GSAP](https://greensock.com), Adobe Creative Suite & Figma; I craft succinct & maintainable code with a focus on performance
 - I’m a proven leader who implements best practices & standard operating procedures while fostering clear communication, strategic thinking, and a culture of continuous improvement
 - I identify & offer forward-thinking solutions to problems while operating effectively through ambiguity, challenges, and transitions
 - Fun fact: Before I began my coding career, I spent half a decade working in the fashion industry as a [Technical Apparel Developer](https://itsoliviasparks.com/tech-design-work)
@@ -14,7 +14,7 @@
 - I also volunteer with [The Collab Lab](https://the-collab-lab.codes), helping early-career developers, particularly those from underrepresented groups in tech, gain practical experience in web development by working remotely on real world projects
 
 ### Where I've studied:
-- I'm a graduate of [Juno College's](https://junocollege.com) Web Development Bootcamp
+- I'm a graduate of [Juno College](https://junocollege.com)'s Web Development Bootcamp
 
 - I also have a Bachelor of Design in Fashion & a Minor in Philosophy from [TMU](https://www.torontomu.ca/fashion/) (Formerly Ryerson University)
 
