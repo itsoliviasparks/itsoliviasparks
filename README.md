@@ -2,7 +2,7 @@
 
 ### A little about me:
 - I'm a methodical & goal-oriented Tech Lead with 6+ years experience in collaborative project development
-- I specialize in DHTML animation utilizing [GSAP](https://greensock.com), Adobe Creative Suite, and Figma
+- I specialize in DHTML animation utilizing [GSAP](https://gsap.com), Adobe Creative Suite, and Figma
 - I'm a proven leader who focuses on strategic thinking, driving innovation, implementing best practices/SOPs, nurturing talent, and fostering a culture of clear communication & continuous improvement
 - Fun fact: Before I began my career in tech, I spent half a decade working in the fashion industry as a [Technical Apparel Designer](https://itsoliviasparks.com/tech-design-work)
 - **Pronouns**: she/her
