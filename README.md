@@ -8,8 +8,9 @@
 - **Pronouns**: she/her
 
 ### What I'm up to:
-- I'm a Technology Lead in the Motion & Display department @ [Publicis Health](https://publicishealth.com)
-- My team includes talented Interactive Developers & Content Authors. Together, we create some pretty rad banner ad animations & develop impactful email communications
+- I'm the Technology Lead in the Motion & Display dept. @ [Publicis](https://www.publicisgroupe.com/en) CoLab:
+    - My team includes talented Interactive Developers & Content Authors
+    - Together, we create some pretty rad banner ad animations & develop impactful email communications
 
 ### Where I've studied:
 - I'm a graduate of [Juno College](https://junocollege.com)'s Web Development Bootcamp
