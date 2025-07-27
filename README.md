@@ -1,16 +1,18 @@
 <img src="https://github.com/itsoliviasparks/itsoliviasparks/blob/main/trippy-swirl-mint-footer.png">
 
 ### A little about me:
-- I'm a methodical & goal-oriented Tech Lead with 6+ years experience in collaborative project development
-- I specialize in HTML5 animation utilizing [GSAP](https://gsap.com), Adobe Creative Suite, and Figma
+- I'm a methodical & goal-oriented Tech Lead with 7+ years experience in collaborative project development
+- I specialize in HTML5 banner animations utilizing [GSAP](https://gsap.com), Adobe Creative Suite, and Figma
 - I'm a proven leader who focuses on strategic thinking, driving innovation, implementing best practices/SOPs, nurturing talent, and fostering a culture of clear communication & continuous improvement
 - Fun fact: Before I began my career in tech, I spent half a decade working in the fashion industry as a [Technical Apparel Designer](https://itsoliviasparks.com/tech-design-work)
 - **Pronouns**: she/her
 
 ### What I'm up to:
-- I'm the Technology Lead in the Motion & Display dept. @ [Publicis](https://www.publicisgroupe.com/en) CoLab:
-    - My team includes talented Interactive Developers & Content Authors
-    - Together, we create some pretty rad banner ad animations & develop impactful email communications
+- I'm a **Technology Lead** in the Motion & Display dept. @ [Publicis Toronto](https://www.publicis.ca):
+    - As a Tech Lead, I work closely with Project Management, QA, and Creative teams, while overseeing and guiding my team in the transformation of storyboards & brand assets into production-ready, best-in-class ads
+    - My team of talented Interactive Developers and I work together to create some pretty rad banner ad animations! *(As well as some compliance-focused banners with scrolling ISI)*
+        - Primarily we work on standard banners, animated with [GSAP](https://gsap.com) and delivered via Google's DoubleClick Studio (DCS) platform
+        - We also work with third-party media companies, use a variety of banner development tools & platforms, and build HTML5 Point-of-Care assets
 
 ### Where I've studied:
 - I'm a graduate of [Juno College](https://junocollege.com)'s Web Development Bootcamp
@@ -18,12 +20,12 @@
 - I also have a Bachelor of Design in Fashion & a Minor in Philosophy from [TMU](https://www.torontomu.ca/fashion/) (Formerly Ryerson University)
 
 ### AFK, you’ll find me:
-- Throwing pottery, riding mountain bikes, climbing rocks, hiking mountains, petting cats, traveling the world, practising yoga, repairing clothes, & playing boardgames
+- Petting cats, riding mountain bikes, climbing rocks, hiking mountains, playing D&D, traveling the world, practising yoga, repairing clothes, & playing boardgames
 
 ### Connect with me:
-- **Portfolio**: [itsoliviasparks.com](https://itsoliviasparks.com)
+- **[Portfolio](https://itsoliviasparks.github.io/itsoliviasparks-portfolio/)**
 
-- **LinkedIn**: [itsoliviasparks](https://www.linkedin.com/in/itsoliviasparks/)
+- **[LinkedIn](https://www.linkedin.com/in/itsoliviasparks/)**
 
 ### Tools I've worked with:
 <p align='center'>
